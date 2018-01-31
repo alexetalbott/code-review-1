@@ -1,4 +1,7 @@
 img {
   float: right;
-  padding: 11px;
+}
+
+.intro {
+  text-align: center;
 }
