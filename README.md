@@ -28,6 +28,4 @@ _Reach out to me at alex.e.talbott@gmail.com with any questions._
 _HTML, CSS, Bootstrap - Sketchy theme from bootswatch.com_
 
 
-*Copyright *
-
 Copyright (c) 2015 **_{List of contributors or company name}_**
